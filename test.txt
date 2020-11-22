@@ -1,2 +1,4 @@
 test av git.
 en liten endirng.
+en liten endring til.
+enda en liten edring.
